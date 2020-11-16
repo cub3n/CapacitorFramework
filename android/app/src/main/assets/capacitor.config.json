@@ -1,0 +1,13 @@
+{
+  "appId": "com.example.app",
+  "appName": "google-maps",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist/GoogleMaps",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
