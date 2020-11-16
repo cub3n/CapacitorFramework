@@ -1,2 +1,2 @@
 # CapacitorImplementacion
- Reimplemtacion Capacitor Framework
+ Implementacion Capacitor Framework
